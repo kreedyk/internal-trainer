@@ -42,11 +42,15 @@
 - Added smaller HUD feature
 - Added HUD repositioning feature
 - Added free cam with custom toggles
+- Added the PRL 412 Nerf feature a way to make the PRL less overpowered by using flash grenade ammo
 - Added hotkey setting to the Manual Checkpoint feature
 - Added new Kill Aura feature
 - Added Character, Melee and Randomizer Studio with custom renders in the UI
 - Added a new stage selection window with screenshots of locations instead of just names
 - Added new UI for mercenaries loadout
+- Added new UI for merchant price editor
+- Added custom merchant unlock items
+- Added a proper memory cleaner with a memory guard that warns when the game is running low on resources during long gameplay sessions
 
 ### Changes
 - The trainer now works in all languages, but English is still recommended since merchant features (knife parry, durability, upgrade) rely on English text and textures
@@ -54,12 +58,14 @@
 - Reduced DLL size by approximately 5 MB; most assets moved to `k_assets.pak` inside the utils folder
 - Back weapon checkbox is now only available when playing as Leon with the no-jacket outfit
 - Camera no longer moves when switching weapons in the real-time inventory
+- Replaced the standard .cfg system with a professional implementation using toml++
 - Improved auto-load configuration loading time
 - Updated config section UI
 - Ashley Jump Alone no longer requires custom files or HD Project
 - Removed `arrows.nia` (old drop file)
 - Removed disable music feature — replaced by volume control
 - Removed code that allowed changing FPS and texture quality in-game (gray block in ESC options); restored automatically when RE4Tweaks is not present
+- Removed VRAM cleaner — replaced with a better memory-cleaning implementation
 - Default bow animations changed to a toggle checkbox in the trainer menu
 - Aimbot rewritten — now includes vertical adjustment; currently focused on a future fixed-camera feature but usable standalone
 - Enemy ESP rewritten with several visual adjustments
