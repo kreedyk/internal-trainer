@@ -19,6 +19,15 @@
 - Fixed enemy not falling when shot while kneeling
 - Fixed Hunk breaking when using the knife (again)
 
+### Removed
+- Removed `arrows.nia` (old drop file)
+- Removed disable music feature — replaced by volume control
+- Removed code that allowed changing FPS and texture quality in-game (gray block in ESC options); restored automatically when RE4Tweaks is not present
+- Removed VRAM cleaner — replaced with a better memory-cleaning implementation
+- Removed AU Codes
+- Removed Ashley Warning HUD Effect
+- Removed Mercenaries Insta Text (Disable Text remained)
+
 ### New Features
 - Added compatibility with the "You Cannot Escape" mod (other mods should also work unless the executable is heavily modified)
 - Added feature to survive a chainsaw attack
@@ -46,6 +55,7 @@
 - Added hotkey setting to the Manual Checkpoint feature
 - Added new Kill Aura feature
 - Added Character, Melee and Randomizer Studio with custom renders in the UI
+- Added outfits setup for character randomizer
 - Added a new stage selection window with screenshots of locations instead of just names
 - Added new UI for mercenaries loadout
 - Added new UI for merchant price editor
@@ -62,10 +72,6 @@
 - Improved auto-load configuration loading time
 - Updated config section UI
 - Ashley Jump Alone no longer requires custom files or HD Project
-- Removed `arrows.nia` (old drop file)
-- Removed disable music feature — replaced by volume control
-- Removed code that allowed changing FPS and texture quality in-game (gray block in ESC options); restored automatically when RE4Tweaks is not present
-- Removed VRAM cleaner — replaced with a better memory-cleaning implementation
 - Default bow animations changed to a toggle checkbox in the trainer menu
 - Aimbot rewritten — now includes vertical adjustment; currently focused on a future fixed-camera feature but usable standalone
 - Enemy ESP rewritten with several visual adjustments
