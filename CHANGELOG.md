@@ -75,6 +75,7 @@
 - Default bow animations changed to a toggle checkbox in the trainer menu
 - Aimbot rewritten — now includes vertical adjustment; currently focused on a future fixed-camera feature but usable standalone
 - Enemy ESP rewritten with several visual adjustments
+- Character and melee swap no longer requires been in-game to swap (outside of menus)
 
 ### Default Melee Anytime Key Changes
 | Action | New Key |
