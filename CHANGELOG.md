@@ -5,6 +5,7 @@
 ## v0.9.9
 
 ### Bug Fixes
+- Fixed LIT sideload crash
 - Fixed config not loading melees correctly
 - Fixed bow mine-dart going out of control when playing with Luis
 - Fixed explosive and flame bullets not working with the bow
@@ -27,6 +28,7 @@
 - Removed AU Codes
 - Removed Ashley Warning HUD Effect
 - Removed Mercenaries Insta Text (Disable Text remained)
+- Removed Enemy Randomizer
 
 ### New Features
 - Added compatibility with the "You Cannot Escape" mod (other mods should also work unless the executable is heavily modified)
