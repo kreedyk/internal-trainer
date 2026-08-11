@@ -31,10 +31,11 @@
 - Removed Enemy Randomizer
 
 ### New Features
+- Added back Ashley's CG Physics via checkbox. It still has the same issue that caused its initial removal, can randomly become distorted (requested by insidecat)
 - Added compatibility with the "You Cannot Escape" mod (other mods should also work unless the executable is heavily modified)
 - Added feature to survive a chainsaw attack
 - Added checkbox to pause the game while switching weapons in the real-time inventory
-- Added `Custom plxx` folder inside `kreed\sideload\User\` — allows editing animations used by Character Swap (requested by goon)
+- Added `Custom plxx` folder inside `kreed\sideload\User\` — allows editing animations used by Character Swap (requested by shin)
 - Added more items to the drop system
 - Added auto heal for Ashley
 - Added new default animation for Ashley low melee
@@ -78,6 +79,7 @@
 - Aimbot rewritten — now includes vertical adjustment; currently focused on a future fixed-camera feature but usable standalone
 - Enemy ESP rewritten with several visual adjustments
 - Character and melee swap no longer requires been in-game to swap (outside of menus)
+- Modloader improved and simplified. Now no longer need to worry about whether the file has .lfs compression
 
 ### Default Melee Anytime Key Changes
 | Action | New Key |
