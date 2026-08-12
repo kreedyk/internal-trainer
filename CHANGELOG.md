@@ -31,6 +31,7 @@
 - Removed Enemy Randomizer
 
 ### New Features
+- Added Death Auto Restart feature for Ashley
 - Added Knife in Merchant feature, it replaces the treasure. Once activated, the Knife Animation Fix is ​​enabled automatically
 - Added Mirrored World and Mirror audio. Completely experimental, may cause headaches
 - Added back Ashley's CG Physics via checkbox. It still has the same issue that caused its initial removal, can randomly become distorted (requested by insidecat)
@@ -84,6 +85,7 @@
 - Modloader improved and simplified. Now no longer need to worry about whether the file has .lfs compression
 - UIScale now saves at user config
 - The Flaming Knife feature now only works with the wep16 equipped (which can be obtained from the merchant via the "Knife in Merchant" feature)
+- The default key to open the menu has been changed to F2
 
 ### Default Melee Anytime Key Changes
 | Action | New Key |
