@@ -31,6 +31,7 @@
 - Removed Enemy Randomizer
 
 ### New Features
+- Added Mirrored World and Mirror audio. Completely experimental, may cause headaches
 - Added back Ashley's CG Physics via checkbox. It still has the same issue that caused its initial removal, can randomly become distorted (requested by insidecat)
 - Added compatibility with the "You Cannot Escape" mod (other mods should also work unless the executable is heavily modified)
 - Added feature to survive a chainsaw attack
@@ -80,6 +81,7 @@
 - Enemy ESP rewritten with several visual adjustments
 - Character and melee swap no longer requires been in-game to swap (outside of menus)
 - Modloader improved and simplified. Now no longer need to worry about whether the file has .lfs compression
+- UIScale now saves at user config
 
 ### Default Melee Anytime Key Changes
 | Action | New Key |
