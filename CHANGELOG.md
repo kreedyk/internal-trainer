@@ -29,8 +29,11 @@
 - Removed Ashley Warning HUD Effect
 - Removed Mercenaries Insta Text (Disable Text remained)
 - Removed Enemy Randomizer
+- Removed rainbow interface
 
 ### New Features
+- Added 3 interface themes: classic, obsidian and crimson
+- Added Discord Rich Presence. Displays information about what you are doing in the game within Discord
 - Added Death Auto Restart feature for Ashley
 - Added Knife in Merchant feature, it replaces the treasure. Once activated, the Knife Animation Fix is ​​enabled automatically
 - Added Mirrored World and Mirror audio. Completely experimental, may cause headaches
