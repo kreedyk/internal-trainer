@@ -32,7 +32,9 @@
 - Removed rainbow interface
 
 ### New Features
-- Added 3 interface themes: classic, obsidian and crimson
+- Added Invisible Enemy feature
+- Added Enemy Spawn hotkey
+- Added 3 interface themes: classic, obsidian and crimson. Changed the default theme to obsidian
 - Added Discord Rich Presence. Displays information about what you are doing in the game within Discord
 - Added Death Auto Restart feature for Ashley
 - Added Knife in Merchant feature, it replaces the treasure. Once activated, the Knife Animation Fix is ​​enabled automatically
