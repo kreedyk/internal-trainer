@@ -32,6 +32,8 @@
 - Removed rainbow interface
 
 ### New Features
+- Added Don't Pause on Menu checkbox. Prevents the game from pausing when opening the menu
+- Added Search Pages in the menu. It doesn't function as a full search feature because the current UI doesn't support that, but a page finder is already great
 - Added Invisible Enemy feature
 - Added Enemy Spawn hotkey
 - Added 3 interface themes: classic, obsidian and crimson. Changed the default theme to obsidian
