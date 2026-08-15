@@ -30,6 +30,7 @@
 - Removed Mercenaries Insta Text (Disable Text remained)
 - Removed Enemy Randomizer
 - Removed rainbow interface
+- Removed Grab bullets and Suplex bullets
 
 ### New Features
 - Added Don't Pause on Menu checkbox. Prevents the game from pausing when opening the menu
@@ -57,7 +58,6 @@
 - Added new game custom loadout (similar to mercenaries loadout)
 - Added volume control
 - Added Silence Armored Ashley
-- Added Ashley Audio Fix as a simple checkbox toggle (no longer requires custom files)
 - Added new auto-save system inspired by modern games — select the save slot and optionally auto-save on room change
 - Added support for user custom back weapons file
 - Added 3 extra slots for Melee Anytime (default keys: 3, 4, 5) so original melees are not replaced
@@ -91,6 +91,7 @@
 - Character and melee swap no longer requires been in-game to swap (outside of menus)
 - Modloader improved and simplified. Now no longer need to worry about whether the file has .lfs compression
 - UIScale now saves at user config
+- Ashley Audio Fix is ​​now automatically enabled (no longer requires custom files)
 - The Flaming Knife feature now only works with the wep16 equipped (which can be obtained from the merchant via the "Knife in Merchant" feature)
 - The default key to open the menu has been changed to F2
 
