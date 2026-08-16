@@ -5,12 +5,13 @@
 ## v0.9.9
 
 ### Bug Fixes
+- Fixed issue where Ashley couldn't increase her maximum health with a yellow herb
 - Fixed LIT sideload crash
 - Fixed config not loading melees correctly
 - Fixed bow mine-dart going out of control when playing with Luis
 - Fixed explosive and flame bullets not working with the bow
 - Fixed Alt+Tab sometimes freezing the game
-- Fixed back weapons potentially causing a black screen during loading (safeguards added)
+- Fixed back weapons potentially causing a black screen during loading
 - Fixed crash when Ashley was decapitated by a chainsaw
 - Fixed crash when breaking glass with the RPG
 - Fixed back weapons not installing through the mod installer
