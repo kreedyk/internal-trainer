@@ -5,6 +5,7 @@
 ## v0.9.9
 
 ### Bug Fixes
+- Fixed Armored Ashley not appearing on cutscene (character swap)
 - Fixed Ada Cinematic appearing without the dress in the inventory
 - Fixed issue where Ashley couldn't increase her maximum health with a yellow herb
 - Fixed LIT sideload crash
