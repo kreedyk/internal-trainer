@@ -5,6 +5,7 @@
 ## v0.9.9
 
 ### Bug Fixes
+- Fixed innumerous crashes on Separate Ways using character swap (a new and expected behavior: you'll see a double loading pass through Ada first)
 - Fixed Armored Ashley not appearing on cutscene (character swap)
 - Fixed Ada Cinematic appearing without the dress in the inventory
 - Fixed issue where Ashley couldn't increase her maximum health with a yellow herb
