@@ -38,7 +38,8 @@
 - Removed Grab bullets and Suplex bullets
 
 ### New Features
-- Added Infinite HUD appearance (- - -) when activates Infinite ammo feature
+- Added Walk While Aiming feature, separate from the Modern Movements feature
+- Added Infinite HUD appearance (- - -) when activates Infinite Ammo feature
 - Added Don't Pause on Menu checkbox. Prevents the game from pausing when opening the menu
 - Added Search Pages in the menu. It doesn't function as a full search feature because the current UI doesn't support that, but a page finder is already great
 - Added Invisible Enemy feature
