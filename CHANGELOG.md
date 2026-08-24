@@ -38,7 +38,8 @@
 - Removed Grab bullets and Suplex bullets
 
 ### New Features
-- Added Walk While Aiming feature, separate from the Modern Movements feature
+- Added "Send to Discord" option in the crash report modal
+- Added Walk While Aiming feature, separate from the Modern Movements feature. Hold shift to increase the speed (configurable)
 - Added Infinite HUD appearance (- - -) when activates Infinite Ammo feature
 - Added Don't Pause on Menu checkbox. Prevents the game from pausing when opening the menu
 - Added Search Pages in the menu. It doesn't function as a full search feature because the current UI doesn't support that, but a page finder is already great
