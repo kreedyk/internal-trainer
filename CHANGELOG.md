@@ -38,6 +38,7 @@
 - Removed Grab bullets and Suplex bullets
 
 ### New Features
+- Added Disable Melee Effect checkbox. Enabled by default while playing as Ashley
 - Added "Send to Discord" option in the crash report modal
 - Added Walk While Aiming feature, separate from the Modern Movements feature. Hold shift to increase the speed (configurable)
 - Added Infinite HUD appearance (- - -) when activates Infinite Ammo feature
