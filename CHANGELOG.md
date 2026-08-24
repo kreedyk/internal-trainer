@@ -45,8 +45,8 @@
 - Added Search Pages in the menu. It doesn't function as a full search feature because the current UI doesn't support that, but a page finder is already great
 - Added Invisible Enemy feature
 - Added Enemy Spawn hotkey
-- Added 3 interface themes: Classic, Obsidian and Crimson
-- Added Theme Randomizer activated by default, cycling between the 3 new themes
+- Added 3 interface themes: Classic, Obsidian and Glacier
+- Added Theme Randomizer activated by default, cycling between the 3 new themes each launch
 - Added Disable Trainer Effects checkbox
 - Added Discord Rich Presence. Displays information about what you are doing in the game within Discord
 - Added Death Auto Restart feature for Ashley
