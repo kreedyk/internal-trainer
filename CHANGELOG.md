@@ -38,6 +38,11 @@
 - Removed Grab bullets and Suplex bullets
 
 ### New Features
+- Added ETM sideload
+- Added UDAS sideload
+- Added DDS sideload
+- Added Stage female animations for Ada/Ashley
+- Added more female animations for Ada/Ashley weapons (Rifle, P.R.L, Mine Thrower, etc)
 - Added Disable Melee Effect checkbox. Enabled by default while playing as Ashley
 - Added "Send to Discord" option in the crash report modal
 - Added Walk While Aiming feature, separate from the Modern Movements feature. Hold shift to increase the speed (configurable)
@@ -53,7 +58,7 @@
 - Added Death Auto Restart feature for Ashley
 - Added Knife in Merchant feature, it replaces the treasure. Once activated, the Knife Animation Fix is ​​enabled automatically
 - Added Mirrored World and Mirror audio. Completely experimental, may cause headaches
-- Added back Ashley's CG Physics via checkbox. It still has the same issue that caused its initial removal, can randomly become distorted (requested by insidecat)
+- Added back playable Ashley's CG Physics, old deformation issue fixed
 - Added compatibility with the "You Cannot Escape" mod (other mods should also work unless the executable is heavily modified)
 - Added feature to survive a chainsaw attack
 - Added checkbox to pause the game while switching weapons in the real-time inventory
