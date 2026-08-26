@@ -39,6 +39,7 @@
 - Removed Grab bullets and Suplex bullets
 
 ### New Features
+- Added FCV/SEQ tracker — Real-time check which animation enemies and player are performing
 - Added ETM sideload
 - Added UDAS sideload
 - Added DDS sideload
