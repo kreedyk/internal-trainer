@@ -5,6 +5,7 @@
 ## v0.9.9
 
 ### Bug Fixes
+- Fixed Walking Speed feature conflicting with RE4 Tweaks Mouse Turn
 - Fixed feature Luis replace Ashley crashes at the castle
 - Fixed innumerous crashes on Separate Ways using character swap (a new and expected behavior: you'll see a double loading pass through Ada first)
 - Fixed Armored Ashley not appearing on cutscene (character swap)
