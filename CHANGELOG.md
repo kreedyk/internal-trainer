@@ -37,8 +37,10 @@
 - Removed Enemy Randomizer
 - Removed rainbow interface
 - Removed Grab bullets and Suplex bullets
+- Removed Modern Movements feature — Prefer the Mouse Turn from RE4 Tweaks if you used to use that
 
 ### New Features
+- Added more people to the Hall of Fame section, thanks for your support!
 - Added FCV/SEQ tracker — Real-time check which animation enemies and player are performing
 - Added ETM sideload
 - Added UDAS sideload
