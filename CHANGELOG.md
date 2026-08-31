@@ -7,6 +7,7 @@
 - Fixed Ashley HP and G+R+Y miss calculation
 - Fixed Moving While Aiming random crash
 - Fixed Auto Skip Cutscenes random crash
+- Fixed Ashley Armored still crashing on cutscenes
 
 ---
 
