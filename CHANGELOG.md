@@ -2,6 +2,14 @@
 
 ---
 
+## v0.9.9.1
+- Fixed Ashley Audio Fix not working
+- Fixed Ashley HP and G+R+Y miss calculation
+- Fixed Moving While Aiming random crash
+- Fixed Auto Skip Cutscenes random crash
+
+---
+
 ## v0.9.9
 
 ### Bug Fixes
