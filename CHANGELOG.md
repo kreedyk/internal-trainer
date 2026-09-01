@@ -9,6 +9,7 @@
 - Fixed Auto Skip Cutscenes random crash
 - Fixed Ashley Armored still crashing on cutscenes
 - Fixed issue loading slider values on configs
+- Fixed Rifle, Punisher and TMP issues with Ada/Ashley
 
 ---
 
