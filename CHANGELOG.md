@@ -14,6 +14,7 @@
 - Fixed Remake Parry not loading correctly on auto-load
 
 ### New Features
+- Added compatibility with RE4 Tweaks Vulkan
 - Added hotkey to General Speed
 - Added "Freeze Everything" to events (short cutscenes) as well
 - Re-added Suplex and Grab bullets as requested
