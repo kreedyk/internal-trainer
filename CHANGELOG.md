@@ -11,6 +11,10 @@
 - Fixed issue loading slider values on configs
 - Fixed Rifle, Punisher and TMP issues with Ada/Ashley
 
+### New Features
+- Added hotkey to General Speed
+- Added "Freeze Everything" to events (short cutscenes) as well
+- Re-added Suplex and Grab bullets as requested
 ---
 
 ## v0.9.9
