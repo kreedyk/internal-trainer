@@ -11,6 +11,7 @@
 - Fixed issue loading slider values on configs
 - Fixed Rifle, Punisher and TMP issues with Ada/Ashley
 - Fixed "Not 4GB patched!" for exe's that had been patched in the previous version of the trainer
+- Fixed Remake Parry not loading correctly on auto-load
 
 ### New Features
 - Added hotkey to General Speed
