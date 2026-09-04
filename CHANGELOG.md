@@ -19,6 +19,10 @@
 - Added hotkey to General Speed
 - Added "Freeze Everything" to events (short cutscenes) as well
 - Re-added Suplex and Grab bullets as requested
+
+### Removed
+- Removed Krauser Controls Ashley checkbox — It was necessary due to a conflict with another feature, fixed
+
 ---
 
 ## v0.9.9
