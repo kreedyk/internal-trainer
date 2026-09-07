@@ -13,8 +13,10 @@
 - Fixed "Not 4GB patched!" for exe's that had been patched in the previous version of the trainer
 - Fixed Remake Parry not loading correctly on auto-load
 - Fixed Krauser low melee not working
+- Increased the knife range when playing as Ada/Ashley
 
 ### New Features
+- Added Free Binoculars feature
 - Added compatibility with RE4 Tweaks Vulkan
 - Added hotkey to General Speed
 - Added "Freeze Everything" to events (short cutscenes) as well
