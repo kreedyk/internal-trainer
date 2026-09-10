@@ -3,6 +3,8 @@
 ---
 
 ## v0.9.9.1
+
+### Bug Fixes
 - Fixed Ashley Audio Fix not working
 - Fixed Ashley HP and G+R+Y miss calculation
 - Fixed Moving While Aiming random crash
@@ -16,6 +18,7 @@
 - Increased the knife range when playing as Ada/Ashley
 
 ### New Features
+- Added Combine Ammo to Reload feature
 - Added Free Binoculars feature
 - Added compatibility with RE4 Tweaks Vulkan
 - Added hotkey to General Speed
@@ -24,6 +27,9 @@
 
 ### Removed
 - Removed Krauser Controls Ashley checkbox — It was necessary due to a conflict with another feature, fixed
+
+### Changes
+- Improved Mirrored World feature: It no longer mirrors prompts and now includes the native HUD
 
 ---
 
