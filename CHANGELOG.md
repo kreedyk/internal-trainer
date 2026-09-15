@@ -18,6 +18,7 @@
 - Increased the knife range when playing as Ada/Ashley
 
 ### New Features
+- Added Inventory auto-organizer feature
 - Added Combine Ammo to Reload feature
 - Added Free Binoculars feature
 - Added compatibility with RE4 Tweaks Vulkan
@@ -30,6 +31,7 @@
 
 ### Changes
 - Improved Mirrored World feature: It no longer mirrors prompts and now includes the native HUD
+- Improved Custom Drops: You can now choose the number of droppable items. Also, items will now only drop if you have the weapon in inventory (vanilla-like)
 
 ---
 
