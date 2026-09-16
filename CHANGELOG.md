@@ -18,6 +18,7 @@
 - Increased the knife range when playing as Ada/Ashley
 
 ### New Features
+- Added Inventory rotate character feature
 - Added Inventory auto-organizer feature
 - Added Combine Ammo to Reload feature
 - Added Free Binoculars feature
