@@ -29,13 +29,14 @@
 
 ### Removed
 - Removed Krauser Controls Ashley checkbox — It was necessary due to a conflict with another feature, fixed
-- Removed the Memory Cleaner completely —  It was causing a lot of crashing during loadings, especially with DLSS 5
+- Removed the Memory Cleaner completely — It was causing a lot of crashing during loadings, especially with DLSS 5
 
 ### Changes
 - Improved Mirrored World feature: It no longer mirrors prompts and now includes the native HUD
 - Improved Custom Drops: You can now choose the number of droppable items. Also, items will now only drop if you have the weapon in inventory (vanilla-like)
 - Improved Character Swap: Now you can switch characters by just opening and closing inventory
 - Character swap will no longer have double loading passing through Ada first on Separate Ways
+- Changing the HUD color no longer requires restarting the checkpoint, it updates 100% in real-time — The rainbow effect has also been improved
 
 ---
 
