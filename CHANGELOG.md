@@ -5,6 +5,7 @@
 ## v0.9.9.1
 
 ### Bug Fixes
+- Fixed Crash if Luis gets grabbed
 - Fixed Ashley Audio Fix not working
 - Fixed Ashley HP and G+R+Y miss calculation
 - Fixed Moving While Aiming random crash
