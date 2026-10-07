@@ -37,6 +37,7 @@
 - Improved Character Swap: Now you can switch characters by just opening and closing inventory
 - Character swap will no longer have double loading passing through Ada first on Separate Ways
 - Changing the HUD color no longer requires restarting the checkpoint, it updates 100% in real-time — The rainbow effect has also been improved
+- Knife Pary/Durability is now preserved in save files: It loads the amount you had at the time of saving, resulting in different durability levels depending on the save
 
 ---
 
