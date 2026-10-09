@@ -16,10 +16,12 @@
 
 ### New Features
 - Added Krauser's Knife feature, which restores Krauser's unused knife (wep26) to full functionality, including his animations
+- Added flaming effect to the Flaming Knife feature
 
 ### Removed
 - Removed Fix Combat Knife — it is now a native feature that does not require manual activation
 - Removed Get Combat Knife button because it can now be purchased natively from the merchant
+- Removed ignite chance for Flaming Knife feature
  
 ---
 
