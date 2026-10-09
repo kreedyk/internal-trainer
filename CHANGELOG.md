@@ -1,5 +1,14 @@
 # Internal Trainer — Changelog
 
+## v0.9.9.2
+
+### Bug Fixes
+- Fixed crash when Ashley was decapitated by a chainsaw — Now covers mods like Ashley Remake
+
+### Changes
+- Suplex and Grab Bullets now feature dedicated animations, they are no longer just visual effects and function like the neckbreaker
+- Super Punisher received a checkbox to select the effect, as well as another checkbox to play the effect only on the last bullet of the magazine
+- 
 ---
 
 ## v0.9.9.1
