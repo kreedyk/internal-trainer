@@ -21,7 +21,7 @@
 ### Removed
 - Removed Fix Combat Knife — it is now a native feature that does not require manual activation
 - Removed Get Combat Knife button because it can now be purchased natively from the merchant
-- Removed ignite chance for Flaming Knife feature
+- Removed Ignite Chance for Flaming Knife feature
  
 ---
 
