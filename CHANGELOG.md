@@ -10,6 +10,8 @@
 - Super Punisher received a checkbox to select the effect, as well as another checkbox to play the effect only on the last bullet of the magazine
 - Crash Report has been completely overhauled and now provides richer information for crash investigation
 - Knife on merchant feature no longer replaces the treasures, it is now a native item
+- Special Bullets has been completely rebuilt to be more lightweight and consistent, in addition to fixing internal issues and limitations associated with other features
+- Flaming Knife no longer needs the Wep16 equipped to work, as the special bullets has been reworked
 
 ### New Features
 - Added Krauser's Knife feature, which restores Krauser's unused knife (wep26) to full functionality, including his animations
