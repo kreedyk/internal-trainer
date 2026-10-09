@@ -12,6 +12,7 @@
 - Knife on merchant feature no longer replaces the treasures, it is now a native item
 - Special Bullets has been completely rebuilt to be more lightweight and consistent, in addition to fixing internal issues and limitations associated with other features
 - Flaming Knife no longer needs the Wep16 equipped to work, as the special bullets has been reworked
+- Flaming Knife is now a custom and special item that can be organized in the inventory
 
 ### New Features
 - Added Krauser's Knife feature, which restores Krauser's unused knife (wep26) to full functionality, including his animations
