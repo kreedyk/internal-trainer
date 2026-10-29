@@ -7,6 +7,9 @@
 - Fixed incompatibility with RE4 Tweaks SkipIntroLogos = true
 
 ### Changes
+- Completely redesigned interface for the Mod Installer
+- Mod Installer no longer installs files into the BIO4 folder, everything is done without touching any original files
+- Changing Ashley's presence (whether she is present or not) can now be updated simply by opening and closing the inventory
 - Suplex and Grab Bullets now feature dedicated animations, they are no longer just visual effects and function like the neckbreaker
 - Super Punisher received a checkbox to select the effect, as well as another checkbox to play the effect only on the last bullet of the magazine
 - Crash Report has been completely overhauled and now provides richer information for crash investigation
