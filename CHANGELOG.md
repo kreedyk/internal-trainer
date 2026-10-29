@@ -4,6 +4,7 @@
 
 ### Bug Fixes
 - Fixed crash when Ashley was decapitated by a chainsaw — Now covers mods like Ashley Remake
+- Fixed incompatibility with RE4 Tweaks SkipIntroLogos = true
 
 ### Changes
 - Suplex and Grab Bullets now feature dedicated animations, they are no longer just visual effects and function like the neckbreaker
