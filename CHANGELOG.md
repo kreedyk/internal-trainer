@@ -7,6 +7,7 @@
 - Fixed incompatibility with RE4 Tweaks SkipIntroLogos = true
 
 ### Changes
+- Walk While Aim now also works with the knife, and the camera shakes while walking. The legs also moves, but it's too subtle to notice, only if increases the FOV
 - Completely redesigned interface for the Mod Installer
 - Mod Installer no longer installs files into the BIO4 folder, everything is done without touching any original files
 - Changing Ashley's presence (whether she is present or not) can now be updated simply by opening and closing the inventory
