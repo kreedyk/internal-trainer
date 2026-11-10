@@ -7,6 +7,8 @@
 - Fixed incompatibility with RE4 Tweaks SkipIntroLogos = true
 
 ### Changes
+- Krauser Aura no longer requires a scan, it activates automatically
+- Back weapons no longer require an extra file, it works with any character and any weapon
 - Walk While Aim now also works with the knife, and the camera shakes while walking. Noise while walking was also added
 - Completely redesigned interface for the Mod Installer
 - Mod Installer no longer installs files into the BIO4 folder, everything is done without touching any original files
