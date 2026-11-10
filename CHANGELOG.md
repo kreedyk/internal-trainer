@@ -3,6 +3,8 @@
 ## v0.9.9.2
 
 ### Bug Fixes
+- Fixed an issue where the config would overwrite changes to weapon stats made via the exe, such as those from the randomizer mod
+- Fixed melee issues with Ada and Melee randomizer
 - Fixed crash when Ashley was decapitated by a chainsaw — Now covers mods like Ashley Remake
 - Fixed incompatibility with RE4 Tweaks SkipIntroLogos = true
 
