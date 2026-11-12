@@ -9,6 +9,8 @@
 - Fixed incompatibility with RE4 Tweaks SkipIntroLogos = true
 
 ### Changes
+- Added a slider to the Infinite Item Stack (now renamed to Custom Stack) to configure the quantity, instead of it always being 999
+- Improved Death Auto Restart with an additional option to watch the death unfold, rather than skipping it abruptly
 - Custom drops have been completely overhauled, no longer need to download the Master ITM. A "Vanilla+" option has been added, allowing you to simply specify which items you want to be dropped, without having to replace the entire loot table (as was the case previously)
 - Krauser Aura no longer requires a scan, it activates automatically
 - Back weapons no longer require an extra file, it works with any character and any weapon
