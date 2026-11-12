@@ -9,6 +9,7 @@
 - Fixed incompatibility with RE4 Tweaks SkipIntroLogos = true
 
 ### Changes
+- The HP indicator (legacy version) now disappears from the screen when it is not tracking any enemies
 - Explosive Melees has gained an extra checkbox, it now explodes on all enemies not just those that were already going to die. Also fixed not saving on config
 - Added a slider to the Infinite Item Stack (now renamed to Custom Stack) to configure the quantity, instead of it always being 999
 - Improved Death Auto Restart with an additional option to watch the death unfold, rather than skipping it abruptly
@@ -28,6 +29,7 @@
 - Flaming Knife is now a custom and special item that can be organized in the inventory (Thanks Sleepless for the PS1 Style Lighter)
 
 ### New Features
+- Added presets for camera positions. Presets can be saved and shared, they are located in the Bin32\kreed\config\Camera folder
 - Added Krauser's Knife feature, which restores Krauser's unused knife (wep26) to full functionality, including his animations
 - Added flaming effect to the Flaming Knife feature
 
