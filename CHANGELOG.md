@@ -9,6 +9,7 @@
 - Fixed incompatibility with RE4 Tweaks SkipIntroLogos = true
 
 ### Changes
+- Improved the skip intro. now, when opening the game, the original loading screen appears instead of the screen remaining black and then abruptly jumping to the menu
 - The trainer now works with both game executables, versions 1.0.6 and 1.1.0. From now on, we recommend using the latest version of the game, 1.1.0
 - The HP indicator (legacy version) now disappears from the screen when it is not tracking any enemies
 - Explosive Melees has gained an extra checkbox, it now explodes on all enemies not just those that were already going to die. Also fixed not saving on config
