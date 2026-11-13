@@ -39,6 +39,7 @@
 - Removed Get Combat Knife button because it can now be purchased natively from the merchant
 - Removed Ignite Chance for Flaming Knife feature
 - Removed Master ITM
+- Removed the feature that set the game to Chinese – it is no longer useful, as the trainer now supports version 1.1.0 and the language can be set via Steam itself
  
 ---
 
