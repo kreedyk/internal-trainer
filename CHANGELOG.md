@@ -9,6 +9,7 @@
 - Fixed incompatibility with RE4 Tweaks SkipIntroLogos = true
 
 ### Changes
+- Completely redone mirrored world feature, now only the world itself is mirrored, delivering an experience a thousand times better than the previous attempt
 - Improved the skip intro. now, when opening the game, the original loading screen appears instead of the screen remaining black and then abruptly jumping to the menu
 - The trainer now works with both game executables, versions 1.0.6 and 1.1.0. From now on, we recommend using the latest version of the game, 1.1.0
 - The HP indicator (legacy version) now disappears from the screen when it is not tracking any enemies
@@ -31,6 +32,8 @@
 - Flaming Knife is now a custom and special item that can be organized in the inventory (Thanks Sleepless for the PS1 Style Lighter)
 
 ### New Features
+- Added Confused Audio feature for the Mirror World, which completely reverses audio directions
+- Added Arm Aura feature for all characters, moved the former Krauser Aura to the "Visuals" tab
 - Added presets for camera positions. Presets can be saved and shared, they are located in the Bin32\kreed\config\Camera folder
 - Added Krauser's Knife feature, which restores Krauser's unused knife (wep26) to full functionality, including his animations
 - Added flaming effect to the Flaming Knife feature
