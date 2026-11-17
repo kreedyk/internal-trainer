@@ -33,6 +33,8 @@
 - Flaming Knife is now a custom and special item that can be organized in the inventory (Thanks Sleepless for the PS1 Style Lighter)
 
 ### New Features
+- Added Equipped Weapon to the cutscenes category. Makes the weapon you were last holding appear in cutscenes
+- Added Custom Cutscene Model — Now any model with facial rigging can appear in cutscenes with facial expressions, Ashley included. Morph editing have been completely retired
 - Added Confused Audio feature for the Mirror World, which completely reverses audio directions
 - Added Arm Aura feature for all characters, moved the former Krauser Aura to the "Visuals" tab
 - Added presets for camera positions. Presets can be saved and shared, they are located in the Bin32\kreed\config\Camera folder
