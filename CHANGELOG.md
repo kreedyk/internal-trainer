@@ -33,6 +33,8 @@
 - Flaming Knife is now a custom and special item that can be organized in the inventory (Thanks Sleepless for the PS1 Style Lighter)
 
 ### New Features
+- Added support for custom bones and remake .chain for physics – currently only for Ashley
+- Added support for PBR and TAA for hair strands – currently only for Ashley
 - Added Equipped Weapon to the cutscenes category. Makes the weapon you were last holding appear in cutscenes
 - Added Custom Cutscene Model — Now any model with facial rigging can appear in cutscenes with facial expressions, Ashley included. Morph editing have been completely retired
 - Added Confused Audio feature for the Mirror World, which completely reverses audio directions
