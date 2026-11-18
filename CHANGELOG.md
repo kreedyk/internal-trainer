@@ -1,6 +1,6 @@
 # Internal Trainer — Changelog
 
-## v0.9.9.2
+## v0.9.9.2 - Pre-1.0.0
 
 ### Bug Fixes
 - Fixed numerous incompatibilities with external mods. The trainer should now have more freedom to work alongside mods that modify the executable
@@ -34,6 +34,7 @@
 
 ### New Features
 - Added 2 new parry animations, with support for user-customized animations – Thanks to WrathFul for providing the FCVs
+- Added optional checkbox that prevents enemies from being stunned when using the parry
 - Added support for custom bones and remake .chain for physics – currently only for Ashley
 - Added support for PBR and TAA for hair strands – currently only for Ashley
 - Added Equipped Weapon to the cutscenes category. Makes the weapon you were last holding appear in cutscenes
@@ -45,6 +46,7 @@
 - Added flaming effect to the Flaming Knife feature
 
 ### Removed
+- Removed streaming and playlist support from the MP3 Player – it no longer connects to the internet, so it now only plays local files
 - Removed Youtube Player
 - Removed Fix Combat Knife — it is now a native feature that does not require manual activation
 - Removed Get Combat Knife button because it can now be purchased natively from the merchant
