@@ -33,6 +33,7 @@
 - Flaming Knife is now a custom and special item that can be organized in the inventory (Thanks Sleepless for the PS1 Style Lighter)
 
 ### New Features
+- Added 2 new parry animations, with support for user-customized animations – Thanks to WrathFul for providing the FCVs
 - Added support for custom bones and remake .chain for physics – currently only for Ashley
 - Added support for PBR and TAA for hair strands – currently only for Ashley
 - Added Equipped Weapon to the cutscenes category. Makes the weapon you were last holding appear in cutscenes
@@ -44,6 +45,7 @@
 - Added flaming effect to the Flaming Knife feature
 
 ### Removed
+- Removed Youtube Player
 - Removed Fix Combat Knife — it is now a native feature that does not require manual activation
 - Removed Get Combat Knife button because it can now be purchased natively from the merchant
 - Removed Ignite Chance for Flaming Knife feature
