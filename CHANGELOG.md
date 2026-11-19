@@ -1,5 +1,15 @@
 # Internal Trainer — Changelog
 
+## v1.0.0
+
+### Bug Fixes
+
+### Changes
+
+### New Features
+ 
+---
+
 ## v0.9.9.2 - Pre-1.0.0
 
 ### Bug Fixes
