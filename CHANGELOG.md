@@ -33,6 +33,7 @@
 - Flaming Knife is now a custom and special item that can be organized in the inventory (Thanks Sleepless for the PS1 Style Lighter)
 
 ### New Features
+- Added checkbox that removes sound and damage from enemies during melee anytime (sideload fcv)
 - Added 2 new parry animations, with support for user-customized animations – Thanks to WrathFul for providing the FCVs
 - Added optional checkbox that prevents enemies from being stunned when using the parry
 - Added support for custom bones and remake .chain for physics – currently only for Ashley
