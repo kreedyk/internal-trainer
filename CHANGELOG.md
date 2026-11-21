@@ -3,7 +3,7 @@
 ## v1.0.0
 
 ### Bug Fixes
--
+- Fixed issue where female characters were unable to use TMP w/ stock
 
 ### Changes
 -
