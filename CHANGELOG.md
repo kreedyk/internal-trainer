@@ -4,9 +4,13 @@
 
 ### Bug Fixes
 - Fixed issue where female characters were unable to use TMP w/ stock
+- Fixed crashes when enemies or breakable objects dropped money while Ptas Manipulation was enabled
+- Fixed a possible crash after disabling Merchant Unlock
+- Fixed a rare crash during cutscenes
 
 ### Changes
 - Brand new interface menu design
+- Ptas Manipulation now affects all money drops, with an optional random checkbox
 
 ### New Features
  -
