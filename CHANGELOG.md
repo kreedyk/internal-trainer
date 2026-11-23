@@ -7,6 +7,7 @@
 - Fixed crashes when enemies or breakable objects dropped money while Ptas Manipulation was enabled
 - Fixed a possible crash after disabling Merchant Unlock
 - Fixed a rare crash during cutscenes
+- Fixed a crash on the main menu when Krauser Beret was disabled while still installed
 
 ### Changes
 - Brand new interface menu design
