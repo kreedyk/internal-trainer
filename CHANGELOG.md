@@ -3,15 +3,19 @@
 ## v1.0.0
 
 ### Bug Fixes
+
+- Fixed crashes with some versions of qingsheng dll
 - Fixed issue where female characters were unable to use TMP w/ stock
 - Fixed crashes when enemies or breakable objects dropped money while Ptas Manipulation was enabled
 - Fixed a possible crash after disabling Merchant Unlock
 - Fixed a rare crash during cutscenes
 - Fixed a crash on the main menu when Krauser Beret was disabled while still installed
+- Fixed a crash when loading a room with Character Swap enabled alongside some mods
 
 ### Changes
 - Brand new interface menu design
 - Ptas Manipulation now affects all money drops, with an optional random checkbox
+- plxx.udas now covers animations for Walk While Aim feature, which fixes glitches that occur if the user modifies weapon animations — reported by shin
 
 ### New Features
  -
